@@ -1,14 +1,18 @@
 {
-    "name": "ruudk/payment-mollie-bundle",
+    "name": "fiendo/payment-mollie-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony2 Bundle that provides access to the Mollie API. Based on JMSPaymentCoreBundle.",
     "keywords": ["payment", "mollie"],
-    "homepage": "https://github.com/ruudk/PaymentMollieBundle",
+    "homepage": "https://github.com/fiendo/PaymentMollieBundle",
     "license": "MIT",
     "authors": [
         {
             "name": "Ruud Kamphuis",
             "email": "ruudk@mphuis.com"
+        },
+        {
+            "name": "Philip van Til",
+            "email": "philip@fiendo.nl"
         }
     ],
     "require": {
